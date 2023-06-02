@@ -20,7 +20,7 @@
     <string name="shr_dresses_label">Dresses</string>
     <string name="shr_account_label">My Account</string>
     <string name="shr_logo_content_description">Shrine Logo</string>
-    <string name="shr_hint_username">Username</string>
-    <string name="shr_hint_password">Password</string>
+<!--    <string name="shr_hint_username">Username</string>-->
+<!--    <string name="shr_hint_password">Password</string>-->
 
 </resources>
